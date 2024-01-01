@@ -70,6 +70,15 @@ const Contact = () => {
 							followers there, so don't hesitate to reach out.
 							Thanks again for your interest, and I look forward
 							to hearing from you!
+							Download my resume {" "}
+							<a
+								href="./ResumePdf.pdf"
+								download="Dinkar_Resume"
+								target="_blank"
+								rel="noreferrer"
+							>
+								here
+							</a>
 						</div>
 					</div>
 
@@ -89,3 +98,14 @@ const Contact = () => {
 };
 
 export default Contact;
+
+{/* <p>Download my resume here:</p> */ }
+{/* <a */ }
+// href="./ResumePdf.pdf"
+// download="Dinkar_Resume"
+// target="_blank"
+// rel="noreferrer"
+// className="resume-download-button"
+{/* > */ }
+{/* Resume */ }
+{/* </a> */ }

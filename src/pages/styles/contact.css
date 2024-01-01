@@ -36,3 +36,20 @@
 	justify-content: flex-start;
 	align-items: center;
 }
+
+
+/* Green Button CSS  */
+/* .resume-download-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.resume-download-button:hover {
+    background-color: #45a049;
+} */
