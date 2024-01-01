@@ -98,14 +98,3 @@ const Contact = () => {
 };
 
 export default Contact;
-
-{/* <p>Download my resume here:</p> */ }
-{/* <a */ }
-// href="./ResumePdf.pdf"
-// download="Dinkar_Resume"
-// target="_blank"
-// rel="noreferrer"
-// className="resume-download-button"
-{/* > */ }
-{/* Resume */ }
-{/* </a> */ }
